@@ -13,13 +13,6 @@ public class Comments {
     }
 
 
-    // 3. Muita informação
-    /*
-     * Esta classe avalia a visão geral dos casos de teste que são cancelados pelo cliente
-     * os motivos do cancelamento desempenham um papel na avaliação blablabla
-     */
-
-
     /**
      * <p> este método publica resultados com base na data
      * </p>

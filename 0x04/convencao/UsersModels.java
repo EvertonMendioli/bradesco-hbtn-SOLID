@@ -1,12 +1,12 @@
 // classe users, representando nossa entidade
 
-class UsersModels {
+public class UsersModels {
 
 int idUser;
 
 String descricao;
 
-final static int IDADEMINIMA = 18;
+public final static int IDADE_MINIMA = 18;
 
 // função que coleta todos os users
 
